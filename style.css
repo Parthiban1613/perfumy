@@ -69,6 +69,10 @@ fix display,border,width,alignment*/
 
 .box img {
     width: 300px;
+<<<<<<< HEAD
+=======
+    height: auto;
+>>>>>>> 7da73bf2a89dfc90dc1139dd387acb14b156b6b8
 }
 
 
