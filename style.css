@@ -61,15 +61,14 @@ fix display,border,width,alignment*/
 .box{
     border: solid black 2px;
     text-align: center;
-    width: 500px;
+    width: 300px;
     display: inline-block;
 }
 
 /* Step 23 fix image width*/
 
 .box img {
-    width: 500px;
-    height: auto;
+    width: 300px;
 }
 
 
